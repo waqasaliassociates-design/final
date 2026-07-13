@@ -1,0 +1,6 @@
+{
+  "name": "Student Planner Pro",
+  "description": "A high-quality Material Design 3 student planner app for managing tasks, assignments, attendance, exams, GPA, and notes with local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
